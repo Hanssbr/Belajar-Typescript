@@ -6,7 +6,7 @@ const myCat = {
     vaccinated: true
 };
 const yourCat = {
-    name: "Jhon",
+    name: "Doe",
     age: 2,
 };
 console.log(myCat);
